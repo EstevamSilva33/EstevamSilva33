@@ -1,4 +1,6 @@
-## Hi, my name is Estevam, and i am a I.T Analyst from Curitiba, Brazil!
+<h2 align="left">Hi 👋! My name is Estevam and I'm a I.T Analyst, from Curitiba, Brazil.</h2>
+
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
